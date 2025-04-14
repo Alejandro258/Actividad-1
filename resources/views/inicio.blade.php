@@ -137,6 +137,82 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="popular_product_carousel arrow_leftright" style="margin-top:30px">
+                        <div class="row common_carousel_4col" data-slick='{"dots": false}'>
+                            <div class="col slider_item">
+                                <div class="shop_layout_2">
+                                    <div class="shop_image_wrap">
+                                        <div class="tab-content">
+                                            <div class="tab-pane fade show active" id="grid_tab1_1" role="tabpanel">
+                                                <a class="shop_image" href="shop_details.html">
+                                                    <img src="assets/images/shop/estacionario-cytsa-1.pNg" alt="image_not_found">
+                                                </a>
+                                            </div>
+                                            <div class="tab-pane fade" id="grid_tab1_2" role="tabpanel">
+                                                <a class="shop_image" href="shop_details.html">
+                                                    <img src="assets/images/shop/shop_2_2.jpg" alt="image_not_found">
+                                                </a>
+                                            </div>
+                                            <div class="tab-pane fade" id="grid_tab1_3" role="tabpanel">
+                                                <a class="shop_image" href="shop_details.html">
+                                                    <img src="assets/images/shop/shop_2_3.jpg" alt="image_not_found">
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="shop_content clearfix">
+                                        <h3 class="shop_title">
+                                            <a href="shop_details.html">Tanque estacionario 120Lts.</a>
+                                        </h3>
+                                        <div class="shop_price">
+                                            <span class="sale_price" style="color:#8f0000!important">$3549.00</span>
+                                            <del>$5849.00</del>
+                                        </div>
+                                        <div style="margin-top: 20px;">
+                                            <a class="btn btn_primary " href="shop_details.html">Ver más</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="popular_product_carousel arrow_leftright" style="margin-top:30px">
+                        <div class="row common_carousel_4col" data-slick='{"dots": false}'>
+                            <div class="col slider_item">
+                                <div class="shop_layout_2">
+                                    <div class="shop_image_wrap">
+                                        <div class="tab-content">
+                                            <div class="tab-pane fade show active" id="grid_tab1_1" role="tabpanel">
+                                                <a class="shop_image" href="shop_details.html">
+                                                    <img src="assets/images/shop/estacionario-cytsa-1.pNg" alt="image_not_found">
+                                                </a>
+                                            </div>
+                                            <div class="tab-pane fade" id="grid_tab1_2" role="tabpanel">
+                                                <a class="shop_image" href="shop_details.html">
+                                                    <img src="assets/images/shop/shop_2_2.jpg" alt="image_not_found">
+                                                </a>
+                                            </div>
+                                            <div class="tab-pane fade" id="grid_tab1_3" role="tabpanel">
+                                                <a class="shop_image" href="shop_details.html">
+                                                    <img src="assets/images/shop/shop_2_3.jpg" alt="image_not_found">
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="shop_content clearfix">
+                                        <h3 class="shop_title">
+                                            <a href="shop_details.html">Tanque estacionario 120Lts.</a>
+                                        </h3>
+                                        <div class="shop_price">
+                                            <span class="sale_price" style="color:#8f0000!important">$3549.00</span>
+                                            <del>$5849.00</del>
+                                        </div>
+                                        <div style="margin-top: 20px;">
+                                            <a class="btn btn_primary " href="shop_details.html">Ver más</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="carousel_nav">
                             <button type="button" class="cc4c_left_arrow"><i class="fal fa-arrow-left"></i></button>
