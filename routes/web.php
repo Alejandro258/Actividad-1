@@ -1,0 +1,22 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+use App\Mail\ContactanosMail;
+use Illuminate\Support\Facades\Mail;
+use App\Http\Controllers\ingusaController;
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::get('/', [ingusaController::class, 'inicio'])->name('inicio');
+
+//Route::get('', "ingusaController@inicio")->name('inicio');
+
