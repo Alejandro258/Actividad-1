@@ -229,7 +229,7 @@
                             <div class="content_wrap" style="background:#ffffff9e; padding:50px 50px; border-radius: 10px;">
                                 <h2 class="text-uppercase" style="color:#8f0000!important">Ofertas </h2>
                                 <hr style="border-top: 3px solid #8f0000;opacity: 1;margin-top: -10px;">
-                                <h1 style="color:#333333!important;margin-top: -10px;">Hasta el 25% de descuento</h1>
+                                <h1 style="color:#333333!important;margin-top: -10px;">Hasta el 25% de descuento.</h1>
                                 <h4 style="color:#333333!important">Reales todo el año y hasta meses sin intereses.</h4>
                             </div>
                         </div>
