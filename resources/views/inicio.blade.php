@@ -48,7 +48,7 @@
                                         <i class="fa-solid fa-truck" style="color:#183c73"></i>
                                     </div>
                                     <div class="policy_content">
-                                        <h3 class="policy_title">Envíos Gratis</h3>
+                                        <h3 class="policy_title">Envíos Gratis.</h3>
                                         <p>En compras superiores.</p>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@
                                         <i class="fa-solid fa-location-dot" style="color:#183c73"></i>
                                     </div>
                                     <div class="policy_content">
-                                        <h3 class="policy_title">Covertura de Envío</h3>
+                                        <h3 class="policy_title">Covertura de Envío.</h3>
                                         <p>Pregunta por tu destino.</p>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@
                                         <i class="fa-solid fa-shield-halved" style="color:#183c73"></i>
                                     </div>
                                     <div class="policy_content">
-                                        <h3 class="policy_title">Pago Seguro</h3>
+                                        <h3 class="policy_title">Pago Seguro.</h3>
                                         <p>Aceptamos tarjetas de debito y credito.</p>
                                     </div>
                                 </div>
