@@ -37,7 +37,7 @@
                                         <i class="fa-solid fa-user" style="color:#183c73"></i>
                                     </div>
                                     <div class="policy_content">
-                                        <h3 class="policy_title">Atención Personalizada</h3>
+                                        <h3 class="policy_title">Atención Personalizada.</h3>
                                         <p>
                                             A través de nuestros chat.
                                         </p>
