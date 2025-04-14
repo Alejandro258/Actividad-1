@@ -31,7 +31,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <strong class="big_text" data-animation="slideInLeft" data-delay=".8s">VENTRO</strong> -->
         </div>
 
         <div class="slider_item sec_space_large" style="background-image: url(assets/images/slider/slider-tanque2.jpg)">

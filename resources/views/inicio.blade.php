@@ -17,13 +17,10 @@
             </a>
         </div>
 
-      <!-- preloader  -->
-      <!-- <div id="preloader"></div> -->
 
         @include('layout.menu')
 
         <main>
-            @include('layout.sidebar')
             
             @include('layout.slider')
 
@@ -300,15 +297,6 @@
             <div class="fooetr_top">
                 <div class="container">
 
-                    <ul class="footer_menu ul_li_center text-uppercase">
-                        <li><a href="#!">Men</a></li>
-                        <li><a href="#!">Women</a></li>
-                        <li><a href="#!">Collection</a></li>
-                        <li><a href="#!">Trends</a></li>
-                        <li><a href="#!">Shoes</a></li>
-                        <li><a href="#!">Dresses</a></li>
-                    </ul>
-
                     <ul class="social_round ul_li_center">
                         <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
@@ -329,11 +317,9 @@
         </footer>
 
     </div>
-    <!-- body_wrap - end -->
 
     @include('layout.js')
 
     </body>
 
-<!-- Mirrored from jthemes.net/themes/html/ventro/index_6.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Oct 2024 17:35:25 GMT -->
 </html>
